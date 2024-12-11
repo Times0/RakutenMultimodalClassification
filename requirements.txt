@@ -3,3 +3,6 @@ matplotlib
 numpy
 pandas
 seaborn
+scikit-learn
+sentence_transformers
+xgboost
