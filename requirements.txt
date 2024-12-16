@@ -6,3 +6,5 @@ seaborn
 scikit-learn
 sentence_transformers
 xgboost
+transformers
+torch
