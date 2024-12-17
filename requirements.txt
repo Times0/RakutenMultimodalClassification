@@ -8,3 +8,5 @@ sentence_transformers
 xgboost
 transformers
 torch
+skore
+nbformat 
