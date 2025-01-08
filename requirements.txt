@@ -8,3 +8,7 @@ sentence_transformers
 xgboost
 transformers
 torch
+lightgbm
+datasets 
+einops
+rich
