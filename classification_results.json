@@ -1,0 +1,187 @@
+{
+    "Single book": {
+        "accuracy": 44.28754813863928,
+        "accuracy_top3": 93.29268292682927,
+        "correct": 1380,
+        "correct_top3": 2907,
+        "total": 3116
+    },
+    "Video Game Covers": {
+        "accuracy": 27.472089314194577,
+        "accuracy_top3": 54.74481658692185,
+        "correct": 689,
+        "correct_top3": 1373,
+        "total": 2508
+    },
+    "Game Accessories": {
+        "accuracy": 17.727543129089828,
+        "accuracy_top3": 61.98691255205235,
+        "correct": 298,
+        "correct_top3": 1042,
+        "total": 1681
+    },
+    "Game Console": {
+        "accuracy": 15.384615384615385,
+        "accuracy_top3": 89.0625,
+        "correct": 128,
+        "correct_top3": 741,
+        "total": 832
+    },
+    "Video Game Figurines": {
+        "accuracy": 6.888805690752527,
+        "accuracy_top3": 67.39049045301385,
+        "correct": 184,
+        "correct_top3": 1800,
+        "total": 2671
+    },
+    "Cards": {
+        "accuracy": 68.83379711611435,
+        "accuracy_top3": 92.15785479382748,
+        "correct": 2721,
+        "correct_top3": 3643,
+        "total": 3953
+    },
+    "Movies Figurine": {
+        "accuracy": 33.638743455497384,
+        "accuracy_top3": 50.78534031413613,
+        "correct": 257,
+        "correct_top3": 388,
+        "total": 764
+    },
+    "Plush toy": {
+        "accuracy": 19.363449691991786,
+        "accuracy_top3": 35.954825462012316,
+        "correct": 943,
+        "correct_top3": 1751,
+        "total": 4870
+    },
+    "Tabletop Game": {
+        "accuracy": 27.82608695652174,
+        "accuracy_top3": 50.33816425120773,
+        "correct": 576,
+        "correct_top3": 1042,
+        "total": 2070
+    },
+    "Toy Car": {
+        "accuracy": 21.466798810703665,
+        "accuracy_top3": 29.534192269573833,
+        "correct": 1083,
+        "correct_top3": 1490,
+        "total": 5045
+    },
+    "Game Room Accessories": {
+        "accuracy": 12.267657992565056,
+        "accuracy_top3": 32.465923172242874,
+        "correct": 99,
+        "correct_top3": 262,
+        "total": 807
+    },
+    "Outdoor Toys": {
+        "accuracy": 17.382577278201524,
+        "accuracy_top3": 35.32717784022481,
+        "correct": 433,
+        "correct_top3": 880,
+        "total": 2491
+    },
+    "Baby accessories": {
+        "accuracy": 57.66738660907127,
+        "accuracy_top3": 80.59240975007714,
+        "correct": 1869,
+        "correct_top3": 2612,
+        "total": 3241
+    },
+    "Furnitures": {
+        "accuracy": 43.60339049871871,
+        "accuracy_top3": 55.17445298639858,
+        "correct": 2212,
+        "correct_top3": 2799,
+        "total": 5073
+    },
+    "Pillows": {
+        "accuracy": 69.69556123634673,
+        "accuracy_top3": 77.15547292586568,
+        "correct": 2999,
+        "correct_top3": 3320,
+        "total": 4303
+    },
+    "Food & Beverages": {
+        "accuracy": 12.826899128268993,
+        "accuracy_top3": 32.87671232876712,
+        "correct": 103,
+        "correct_top3": 264,
+        "total": 803
+    },
+    "Pet Supplies": {
+        "accuracy": 24.271844660194176,
+        "accuracy_top3": 63.95631067961165,
+        "correct": 200,
+        "correct_top3": 527,
+        "total": 824
+    },
+    "Journals": {
+        "accuracy": 3.3823529411764706,
+        "accuracy_top3": 17.16386554621849,
+        "correct": 161,
+        "correct_top3": 817,
+        "total": 4760
+    },
+    "Book collection": {
+        "accuracy": 1.466275659824047,
+        "accuracy_top3": 16.715542521994134,
+        "correct": 70,
+        "correct_top3": 798,
+        "total": 4774
+    },
+    "Game Console (occasion)": {
+        "accuracy": 27.656579873328642,
+        "accuracy_top3": 45.53131597466572,
+        "correct": 393,
+        "correct_top3": 647,
+        "total": 1421
+    },
+    "Office Supplies": {
+        "accuracy": 40.28863499699338,
+        "accuracy_top3": 63.80036079374625,
+        "correct": 2010,
+        "correct_top3": 3183,
+        "total": 4989
+    },
+    "Outdoor & Garden": {
+        "accuracy": 7.76361529548088,
+        "accuracy_top3": 14.600231749710312,
+        "correct": 201,
+        "correct_top3": 378,
+        "total": 2589
+    },
+    "Spa Supplies": {
+        "accuracy": 50.40650406504065,
+        "accuracy_top3": 79.76295425604857,
+        "correct": 5146,
+        "correct_top3": 8143,
+        "total": 10209
+    },
+    "Tools & Home Improvement": {
+        "accuracy": 16.145833333333336,
+        "accuracy_top3": 32.892628205128204,
+        "correct": 403,
+        "correct_top3": 821,
+        "total": 2496
+    },
+    "Literature book": {
+        "accuracy": 48.06229626946759,
+        "accuracy_top3": 96.16081130025353,
+        "correct": 1327,
+        "correct_top3": 2655,
+        "total": 2761
+    },
+    "PC games": {
+        "accuracy": 23.394495412844037,
+        "accuracy_top3": 63.30275229357798,
+        "correct": 204,
+        "correct_top3": 552,
+        "total": 872
+    },
+    "overall": {
+        "weighted_f1_score": 0.322331229659887
+    }
+}

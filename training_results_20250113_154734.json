@@ -1,0 +1,10 @@
+{
+    "date": "2025-01-13 15:47:34",
+    "best_f1": 0.8203181754801725,
+    "config": {
+        "embedder": "HIT-TMG/KaLM-embedding-multilingual-mini-instruct-v1",
+        "embedding_dimension": 896,
+        "use_description": false,
+        "use_instruct": false
+    }
+}
