@@ -1,0 +1,12 @@
+{
+    "date": "2025-01-14 21:08:54",
+    "best_f1": 0.7262000143491567,
+    "config": {
+        "embedder": "flaubert/flaubert_base_cased",
+        "embedding_dimension": 768,
+        "use_description": true
+    },
+    "classifier_architecture": "OptimizedModule(\n  (_orig_mod): ClassificationHead(\n    (layers): Sequential(\n      (0): LayerNorm((1536,), eps=1e-05, elementwise_affine=True)\n      (1): Linear(in_features=1536, out_features=512, bias=True)\n      (2): GELU(approximate='none')\n      (3): Dropout(p=0.5, inplace=False)\n      (4): LayerNorm((512,), eps=1e-05, elementwise_affine=True)\n      (5): Linear(in_features=512, out_features=256, bias=True)\n      (6): GELU(approximate='none')\n      (7): Dropout(p=0.5, inplace=False)\n      (8): LayerNorm((256,), eps=1e-05, elementwise_affine=True)\n      (9): Linear(in_features=256, out_features=27, bias=True)\n    )\n  )\n)",
+    "total_parameters": 929819,
+    "trainable_parameters": 929819
+}

@@ -1,0 +1,12 @@
+{
+    "date": "2025-01-14 19:14:14",
+    "best_f1": 0.8587606461128183,
+    "config": {
+        "embedder": "intfloat/multilingual-e5-large-instruct",
+        "embedding_dimension": 1024,
+        "use_description": true
+    },
+    "classifier_architecture": "OptimizedModule(\n  (_orig_mod): ClassificationHead(\n    (input_norm): LayerNorm((2048,), eps=1e-05, elementwise_affine=True)\n    (layer1): Sequential(\n      (0): Linear(in_features=2048, out_features=1024, bias=True)\n      (1): LayerNorm((1024,), eps=1e-05, elementwise_affine=True)\n      (2): GELU(approximate='none')\n      (3): Dropout(p=0.5, inplace=False)\n    )\n    (residual1): Linear(in_features=2048, out_features=1024, bias=True)\n    (layer2): Sequential(\n      (0): Linear(in_features=1024, out_features=512, bias=True)\n      (1): LayerNorm((512,), eps=1e-05, elementwise_affine=True)\n      (2): GELU(approximate='none')\n      (3): Dropout(p=0.4, inplace=False)\n    )\n    (layer3): Sequential(\n      (0): Linear(in_features=512, out_features=256, bias=True)\n      (1): LayerNorm((256,), eps=1e-05, elementwise_affine=True)\n      (2): GELU(approximate='none')\n      (3): Dropout(p=0.3, inplace=False)\n    )\n    (bottleneck): Sequential(\n      (0): Linear(in_features=256, out_features=128, bias=True)\n      (1): LayerNorm((128,), eps=1e-05, elementwise_affine=True)\n      (2): GELU(approximate='none')\n      (3): Dropout(p=0.6, inplace=False)\n    )\n    (output): Linear(in_features=128, out_features=27, bias=True)\n  )\n)",
+    "total_parameters": 4896795,
+    "trainable_parameters": 4896795
+}

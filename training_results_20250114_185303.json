@@ -1,0 +1,9 @@
+{
+    "date": "2025-01-14 18:53:03",
+    "best_f1": 0.8218026540519836,
+    "config": {
+        "embedder": "intfloat/multilingual-e5-large-instruct",
+        "embedding_dimension": 1024,
+        "use_description": true
+    }
+}
